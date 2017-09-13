@@ -12,7 +12,7 @@ permalink: /redox/
 
 |                       General Equation                        |                        Example                         |
 |:-------------------------------------------------------------:|:------------------------------------------------------:|
-| $\mathlarger{\ce{A_{red} <=>T[oxidation][reduction] A_{ox}}}$ | $\mathlarger{\ce{CH4 <=>T[oxidation][reduction] CO2}}$ |
+| $\ce{A_{red} <=>T[oxidation][reduction] A_{ox}}$ | $\ce{CH4 <=>T[oxidation][reduction] CO2}$ |
 
  - **Oxidant**: chemical species that oxidizes something else, and gets reduced
  - **Reductant**: chemical species that reduces something else, and gets oxidized
@@ -25,8 +25,8 @@ permalink: /redox/
    - Alkali metals are always +1
    - Alkaline earth metals are always +2
    - Fluorine is always -1
-   - Hydrogen is almost always +1 (~~Exception~~: metal hydrides, ex: $\ce{NaH}$, where H is -1 because Na is +1 and the compound is neutral.)
-   - Oxygen is almost always -2 (~~Exceptions~~: peroxides, ex $\ce{H2O2}$, where O is -1 because H can only donate 1 electron and the compound is neutral; and $\ce{F2O}$, where O is +2 because F is the only thing more electronegative than O.
+   - Hydrogen is almost always +1 (**Exception**: metal hydrides, ex: $\ce{NaH}$, where H is -1 because Na is +1 and the compound is neutral.)
+   - Oxygen is almost always -2 (**Exceptions**: peroxides, ex $\ce{H2O2}$, where O is -1 because H can only donate 1 electron and the compound is neutral; and $\ce{F2O}$, where O is +2 because F is the only thing more electronegative than O.
 3. The sum of oxidation states in a species is equal to the net charge of the species.
 
 These rules allow you to work out the oxidation states for other elements with more versatile oxidation states.
@@ -51,4 +51,29 @@ Assign oxidation states to each atom in these compounds
 | Carbon(s)   |                                     |                                       |                                      |                                     |
 
 
+## Half reactions
+
+A redox reaction $\ce{A_{red} + B_{ox} -> B_{red} + A_{ox}}$ can also be written as two **half reactions**.
+
+$$
+\ce{A_{red} -> A_{ox} + e-} \\
+\ce{B_{ox} + e- -> B_{red}}
+$$
+
+Half reactions are a theoretical concept as there are not really any free electrons as a chemical compound in a chemical system, but it is a very useful one for thinking about redox:
+
 ## Rules for balancing redox reactions
+
+This is one possible approach for systematically balancing redox reactions.
+
+1. Write out the two half reactions
+2. Balance all elements except H & O
+3. Balance O with H2O
+4. Balance H with H+
+5. Balance charge with e- [check yourself here that the number of electrons transferred matches the change in oxidation state]
+6. Multiply half reactions so that the number of electrons match
+7. Add half reactions together
+
+## Redox reaction practice problems
+
+coming soon...
