@@ -16,6 +16,12 @@ nav[data-toggle='toc'] {
 
 }
 
+/* structure images */
+
+img-structure {
+  height: 90px;
+}
+
 /* git hub markdown style table formatting */
 
 table {
