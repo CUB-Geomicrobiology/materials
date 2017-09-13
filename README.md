@@ -1,2 +1,6 @@
-# materials
-Materials for the class
+---
+layout: default
+permalink: /
+---
+
+## Readings
