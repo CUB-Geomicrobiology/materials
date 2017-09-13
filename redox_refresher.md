@@ -42,13 +42,13 @@ Carbon has 4 valance electrons, so it can lose up to 4 electrons or gain up to 4
 
 Assign oxidation states to each atom in these compounds
 
-|             |                **Acetate**                 |                **Succinate**                 |                **Fumarate**                 |                **Ethanol**                 |
-|-------------|:------------------------------------------:|:--------------------------------------------:|:-------------------------------------------:|:------------------------------------------:|
-| Structure   | ![](assets/redox_acetate.png){height=80px} | ![](assets/redox_succinate.png){height=80px} | ![](assets/redox_fumarate.png){height=80px} | ![](assets/redox_ethanol.png){height=50px} |
-| Net charge  |                                            |                                              |                                             |                                            |
-| Hydrogen(s) |                                            |                                              |                                             |                                            |
-| Oxygen(s)   |                                            |                                              |                                             |                                            |
-| Carbon(s)   |                                            |                                              |                                             |                                            |
+|             |             **Acetate**              |             **Succinate**              |             **Fumarate**              |             **Ethanol**              |
+|-------------|:------------------------------------:|:--------------------------------------:|:-------------------------------------:|:------------------------------------:|
+| Structure   | ![](/assets/redox_acetate.png =150x) | ![](/assets/redox_succinate.png =150x) | ![](/assets/redox_fumarate.png =150x) | ![](/assets/redox_ethanol.png =150x) |
+| Net charge  |                                      |                                        |                                       |                                      |
+| Hydrogen(s) |                                      |                                        |                                       |                                      |
+| Oxygen(s)   |                                      |                                        |                                       |                                      |
+| Carbon(s)   |                                      |                                        |                                       |                                      |
 
 
 ## Half reactions
