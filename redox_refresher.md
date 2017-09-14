@@ -31,11 +31,11 @@ permalink: /redox/
 
 These rules allow you to work out the oxidation states for other elements with more versatile oxidation states.
 
-Carbon has 4 valance electrons, so it can lose up to 4 electrons or gain up to 4 electrons for a full outer shell. Therefore, carbon has an 8 electron range in oxidation states, from -4 to +4.
+Carbon has 4 valance electrons, so it can lose up to 4 electrons or gain up to 4 electrons for a full outer shell. Therefore, carbon has 9 possible oxidation states, from -4 to +4.
 
 | Oxidation state |     -4     |     -3      |     -2      |     -1      |      0      |      +1       |     +2      |     +3      |     +4     |
 |-----------------|:----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-------------:|:-----------:|:-----------:|:----------:|
-| Example         | $\ce{CH4}$ | $\ce{C2H6}$ | $\ce{C2H4}$ | $\ce{C2H2}$ | $\ce{CH2O}$ | $\ce{C2H2O2}$ | $\ce{CHO2}$ | $\ce{C2O4}$ | $\ce{CO2}$ |
+| Example         | $\ce{CH4}$ | $\ce{C2H6}$ | $\ce{C2H4}$ | $\ce{C2H2}$ | $\ce{CH2O}$ | $\ce{C2H2O2}$ | $\ce{CHO2-}$ | $\ce{C2O4-}$ | $\ce{CO2}$ |
 
 
 ## Oxidation state practice problems
@@ -66,11 +66,11 @@ Half reactions are a theoretical concept as there are not really any free electr
 
 This is one possible approach for systematically balancing redox reactions.
 
-1. Write out the two half reactions
-2. Balance all elements except H & O
-3. Balance O with H2O
-4. Balance H with H+
-5. Balance charge with e- [check yourself here that the number of electrons transferred matches the change in oxidation state]
+1. Separate out the two half reactions
+2. Balance all elements except $\ce{H}$ & $\ce{O}$
+3. Balance $\ce{O}$ with $\ce{H2O}$
+4. Balance $\ce{H}$ with $\ce{H+}$
+5. Balance charge with $\ce{e-}$ [check yourself here that the number of electrons transferred matches the change in oxidation state]
 6. Multiply half reactions so that the number of electrons match
 7. Add half reactions together
 
@@ -78,4 +78,9 @@ This is one possible approach for systematically balancing redox reactions.
 
 Write balanced redox reactions for each of these metabolisms.
 
-1. $\ce{C6H12O6 + NO3- -> CO2 + N2}$
+#### Example: $\ce{C6H12O6 + NO3- -> CO2 + N2}$
+
+1. Half reactions: $\ce{C6H12O6 -> CO2}$ and $NO3- -> N2$
+2. - 5. Balancing the reactions:
+    - $\ce{C6H12O6 + 6 H2O -> 6 CO2 + 24 H+ + 24 e-}$ (The oxidation state of C is 0 in glucose and +4 in $\ce{CO2}$ - since there are 6 carbons, that requires 24 electrons)
+    - $2 NO3- + 12 H+ -> N2 + 6 H2O$ (The oxidation state of N is +5 in nitrate and O in $\ce{N2}$ - since there are 2 nitrogens, that requires 10 electrons)
