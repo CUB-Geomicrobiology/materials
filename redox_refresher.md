@@ -76,4 +76,6 @@ This is one possible approach for systematically balancing redox reactions.
 
 ## Redox reaction practice problems
 
-coming soon...
+Write balanced redox reactions for each of these metabolisms.
+
+1. $\ce{C6H12O6 + NO3- -> CO2 + N2}$
