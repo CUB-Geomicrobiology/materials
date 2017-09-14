@@ -95,12 +95,16 @@ Pseudo reaction (not balanced): $\ce{C6H12O6 + NO3- -> CO2 + N2}$
 
 ### Iron oxidation coupled to nitrate reduction
 
-Pseudo reaction (not balanced): $\ce{Fe++ + NO3- -> Fe(OH)3 + N2}$
+Pseudo reaction (not balanced): $\ce{Fe^{2+} + NO3- -> Fe(OH)3 + N2}$
 
 ### Iron-oxidizing anoxygenic phototrophy
 
-Pseudo reaction (not balanced): $\ce{HCO3- + Fe++ -> CH2O + Fe(OH)3}$
+Pseudo reaction (not balanced): $\ce{HCO3- + Fe^{2+} -> CH2O + Fe(OH)3}$
 
 ### Methane oxidation coupled to sulfate reduction
 
-Pseudo reaction (not balanced): $\ce{CH4 + SO4-- -> CO2 + HS-}$
+Pseudo reaction (not balanced): $\ce{CH4 + SO4^{2-} -> CO2 + HS-}$
+
+### Ammonia oxidation coupled to iron reduction
+
+Pseudo reaction (not balanced): $\ce{NH4+ + 6 FeOOH + 10 H+ -> NO2- + 6 Fe^{2+} + 10 H2O}$
