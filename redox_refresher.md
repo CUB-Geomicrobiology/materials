@@ -78,9 +78,21 @@ This is one possible approach for systematically balancing redox reactions.
 
 Write balanced redox reactions for each of these metabolisms.
 
-#### Example: $\ce{C6H12O6 + NO3- -> CO2 + N2}$
+### Example: Glucose respiration coupled to nitrate reduction
 
-1. Half reactions: $\ce{C6H12O6 -> CO2}$ and $NO3- -> N2$
-2. - 5. Balancing the reactions:
-    - $\ce{C6H12O6 + 6 H2O -> 6 CO2 + 24 H+ + 24 e-}$ (The oxidation state of C is 0 in glucose and +4 in $\ce{CO2}$ - since there are 6 carbons, that requires 24 electrons)
-    - $2 NO3- + 12 H+ -> N2 + 6 H2O$ (The oxidation state of N is +5 in nitrate and O in $\ce{N2}$ - since there are 2 nitrogens, that requires 10 electrons)
+Pseudo-reaction (not balanced): $\ce{C6H12O6 + NO3- -> CO2 + N2}$
+
+- Step 1: separating half reactions. $\ce{C6H12O6 -> CO2}$ and $NO3- -> N2$
+- Steps 2-5: balancing the half reactions.
+  - $\ce{C6H12O6 + 6 H2O -> 6 CO2 + 24 H+ + 24 e-}$ (The oxidation state of C is 0 in glucose and +4 in $\ce{CO2}$ - since there are 6 carbons, that requires 24 electrons)
+  - $\ce{2 NO3- + 12 H+ -> N2 + 6 H2O}$ (The oxidation state of N is +5 in nitrate and O in $\ce{N2}$ - since there are 2 nitrogens, that requires 10 electrons)
+- Step 6: matching the half reactions.
+  - $\left[\ce{C6H12O6 + 6 H2O -> 6 CO2 + 24 H+ + 24 e-}\right] \cdot 5 = 120 \ce{e-}$
+  - $\left[\ce{2 NO3- + 12 H+ -> N2 + 6 H2O}\right] \cdot 12 = 120 \ce{e-}$
+- Step 7: combining the half reactions.
+  - $\ce{5 C6H12O6 + 30 H2O + 24NO3- + 144H+ + 120 e- -> 30 CO2 + 120 H+ + 120 e- + 12 N2 + 72 H2O}$, which can be simplified to
+  - $\ce{5 C6H12O6 + 24 NO3- + 24 H+ -> 30 CO2 + 12 N2 + 42 H2O}$
+
+### Iron oxidation coupled to nitrate reduction
+
+Pseudo-reaction (not balanced): $\ce{Fe+2 + NO3- -> Fe(OH)3 + N2}$
