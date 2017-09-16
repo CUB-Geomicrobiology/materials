@@ -1,0 +1,5 @@
+baseurl: "/materials"
+imageurl: "/assets/"
+kramdown:
+  input: GFM
+  hard_wrap: false

@@ -6,10 +6,22 @@
     <title>Introduction to Geomicrobiology</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.1/dist/bootstrap-toc.min.css">
-    <link rel="stylesheet" href="/materials/assets/custom.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/custom.css">
+    {% if page.css %}<link rel="stylesheet" href="{{ site.baseurl }}/assets/{{ page.css }}">{% endif %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.1/dist/bootstrap-toc.min.js"></script>
+    <!--<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>-->
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: {extensions:["mhchem.js"]}});</script>
+    <script type="text/x-mathjax-config">
+       MathJax.Hub.Config({
+         tex2jax: {
+           inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+           processEscapes: true
+         }
+       });
+    </script>
   </head>
   <body data-spy="scroll" data-target="#toc">
     <div class="container">
@@ -18,14 +30,9 @@
           <nav id="toc" data-spy="affix" data-toggle="toc"></nav>
         </div>
         <div class="col-sm-9">
+          {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
           {{ content }}
           <br/>
-          <!--<footer>
-            <center>
-              Except where otherwise noted, all materials under <a href="https://www.github.com/2017-Geomicrobiology">https://www.github.com/2017-Geomicrobiology</a> are licensed under a
-              <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br/>
-            </center>
-          </footer>-->
         </div>
       </div>
     </div>
