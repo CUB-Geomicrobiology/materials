@@ -1,5 +1,4 @@
 ---
-title: "Redox Chemistry Overview"
 header-includes:
 - \usepackage{relsize}
 - \usepackage{amsmath}
