@@ -1,0 +1,18 @@
+/* hidden content for solutions */
+
+.solution {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #000000;
+  color: #000000;
+}
+
+/* note: this works okay for individual text span but only works for equations if displayed globally */
+
+::selection {
+  background: #ffffff !important;
+}
+
+::-moz-selection {
+  background: #ffffff !important;
+}
