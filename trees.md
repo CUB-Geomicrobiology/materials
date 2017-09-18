@@ -28,7 +28,7 @@ This tree has way more information than we want at the moment. Time to prune it.
 
 For each of our 7 genera (Chlorobium, Cryptomonas, Heliobacterium, Methanosarcina, Nostoc, Rhodospirillum, Synechococcus), pick a close representative to prune the tree.
 
-0. In `Controls --> Basic`, switch **Display Mode** to `Normal` (this is easier for pruning)
+1. In `Controls --> Basic`, switch **Display Mode** to `Normal` (this is easier for pruning)
 1. In the left controls `Search the tree` and enter the name of genus
 2. If there is a close representative, click on it to highlight the branch in the tree
 3. If there are no search results (it would be impossible to include everything in a tree like this, relatively closely related groups are usually grouped together or included via a single representative), see if you can find out what the next closer group is using the NCBI Taxonomy browser:
