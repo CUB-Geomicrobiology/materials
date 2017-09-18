@@ -1,13 +1,11 @@
 ---
 layout: default
-title:
+title: Materials
 permalink: /
 ---
 
-# Materials
-
 {% for p in site.pages %}
-{% if p.title %}
+{% if p.title and p.title <> "Materials" %}
 ## [{{ p.title }}]({{ site.baseurl }}{{ p.url }})
 {% endif %}
 {% endfor %}
