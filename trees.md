@@ -7,18 +7,18 @@ permalink: /trees/
 ## Getting the data
 
 1. Go to the supplemental materials of Hug et al. 2016: [link](https://www.nature.com/articles/nmicrobiol201648#supplementary-information)
-2. Download **Supplementary Dataset 2** (the tree in a text format called `Newick` format)
+2. Download **Supplementary Dataset 2** (the tree in a text format called `Newick` format) by right-clicking the link and choosing **Save link as...** which will allow you to save it as a text file (the name does not matter, just make sure you find it again for the next step).
 
 ## Loading the tree
 
-1. Go to the interactive tree of life: [iTOL](http://itol.embl.de/)
-2. Click on **Upload**
-3. Give the tree a name (e.g. `Tree of Life`) and upload the **Supplementary Dataset 2** that you downloaded
+1. Go to the interactive tree of life: [iTOL](http://itol.embl.de/).
+2. Click on [**Upload**](http://itol.embl.de/upload.cgi) in the top menu.
+3. Give the tree a name (e.g. `Tree of Life`) and upload the **Supplementary Dataset 2** that you downloaded.
 
 ## Customizing the visualization
 
 1. In `Controls -> Basic`, switch **Display Mode** to `Unrooted`
-2. In `Controsl -> Basic`, switch **Parameters** to `270` degrees rotation
+2. In `Controls -> Basic`, switch **Parameters** to `270` degrees rotation
 3. In `Controls -> Advanced`, switch **Leaf Sorting** to `None`
 4. Start to look familiar?
 
@@ -64,5 +64,7 @@ Play with the settings in `Controls -> Advanced`: **Branch lengths**, **Bootstra
 As a team, make your tree more visually appealing by playing with
 
  - the `Controls` (circular, normal, inverted vs. non-inverted, etc., whatever you like better to visualize the relationships)
- - clicking on the `Tips` and simplifying the Label (`Label -> Edit`), Color (`Color -> New color range`), and or line style (`Style`)
- - finish by going to `Controls -> Export` and exporting the tree as an **EPS** 
+ - clicking on the `Tips` and simplifying the labels (`Label -> Edit`), colors (`Color -> New color range`), and/or line styles (`Style`)
+ - finish by going to `Controls -> Export` and exporting the tree as an **EPS: encapsulated post script** for graphical out put and as **Newick tree** for text output (which you could re-upload at a later point for additional edits)
+
+Note: if you want to save the tree with all its visualization parameters, you have to [create a personal ITOL account](http://itol.embl.de/itol_account.cgi) which then allows you to save and share all kinds of tree visualizations.
