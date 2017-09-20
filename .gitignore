@@ -36,3 +36,7 @@ vignettes/*.pdf
 _site/
 tmp/
 Gemfile.lock
+
+# Rendered materials
+*.pdf
+*.nb.html

@@ -47,9 +47,11 @@ Repeat this for all 7 genera. Then:
 
 ## Discussion questions
 
-How does the tree compare to your tree?
+How does the tree compare to the manual tree we made?
 
-1. What did the 20 amino acid sequence from the 16S ribosomal RNA get right?
+![](assets/manual_tree.png)
+
+1. What did the 20 amino acid sequence from the 16S ribosomal RNA gene get right?
 2. What did it get wrong?
 3. What is the most striking difference?
 
@@ -65,6 +67,11 @@ As a team, make your tree more visually appealing by playing with
 
  - the `Controls` (circular, normal, inverted vs. non-inverted, etc., whatever you like better to visualize the relationships)
  - clicking on the `Tips` and simplifying the labels (`Label -> Edit`), colors (`Color -> New color range`), and/or line styles (`Style`)
- - finish by going to `Controls -> Export` and exporting the tree as an **EPS: encapsulated post script** for graphical out put and as **Newick tree** for text output (which you could re-upload at a later point for additional edits)
 
-Note: if you want to save the tree with all its visualization parameters, you have to [create a personal ITOL account](http://itol.embl.de/itol_account.cgi) which then allows you to save and share all kinds of tree visualizations.
+## Submitting your team tree
+
+To get full credit for this in-class activity, submit at least one tree from your team by adding it to your team's [tree repository](https://classroom.github.com/g/9nWtA6xT) by the end of the day and submit using the `submit` branch as usual.
+
+You can export the tree in `Controls -> Export` for addition to your repository as a **PNG: Portable Network Graphics** for graphical output and as a **Text: Newick tree** file for saving the structure of the tree (which you could re-use in [iTOL](http://itol.embl.de/) at a later point if so inclined). Please add both the `.png` and the `.txt` (with sensible file names) to the `trees` folder in your repository and link them in the `molecular_trees.md` assignment file.
+
+*Side note: if you want to save a tree with all its visualization parameters, you have to [create a personal ITOL account](http://itol.embl.de/itol_account.cgi) which then allows you to save and share all kinds of tree visualizations.*
