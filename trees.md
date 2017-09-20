@@ -75,3 +75,7 @@ To get full credit for this in-class activity, submit at least one tree from you
 You can export the tree in `Controls -> Export` for addition to your repository as a **PNG: Portable Network Graphics** for graphical output and as a **Text: Newick tree** file for saving the structure of the tree (which you could re-use in [iTOL](http://itol.embl.de/) at a later point if so inclined). Please add both the `.png` and the `.txt` (with sensible file names) to the `trees` folder in your repository and link them in the `molecular_trees.md` assignment file.
 
 *Side note: if you want to save a tree with all its visualization parameters, you have to [create a personal ITOL account](http://itol.embl.de/itol_account.cgi) which then allows you to save and share all kinds of tree visualizations.*
+
+## Bonus
+
+We probably won't have enough time in class to complete the activity for building a gene tree from scratch. If your team is finished early or you and your team are interested in doing this outside class as a bonus exercise, please proceed to [Generating a gene tree from scratch](/trees_bonus/).
