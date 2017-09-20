@@ -49,7 +49,7 @@ Repeat this for all 7 genera. Then:
 
 How does the tree compare to the manual tree we made?
 
-![](/assets/manual_tree.png)
+![]({{ site.baseurl }}/assets/manual_tree.png)
 
 1. What did the 20 amino acid sequence from the 16S ribosomal RNA gene get right?
 2. What did it get wrong?
