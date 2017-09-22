@@ -78,4 +78,4 @@ You can export the tree in `Controls -> Export` for addition to your repository 
 
 ## Bonus
 
-We probably won't have enough time in class to complete the activity for building a gene tree from scratch. If your team is finished early or you and your team are interested in doing this outside class as a bonus exercise, please proceed to [Generating a gene tree from scratch](/trees_bonus/).
+We probably won't have enough time in class to complete the activity for building a gene tree from scratch. If your team is finished early or you and your team are interested in doing this outside class as a bonus exercise, please proceed to [Generating a gene tree from scratch](/materials/trees_bonus/).
