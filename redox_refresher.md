@@ -111,7 +111,7 @@ Pseudo reaction (not balanced): $\ce{CH4 + SO4^{2-} -> CO2 + HS-}$
 
 #### Ammonia oxidation coupled to iron reduction
 
-Pseudo reaction (not balanced): $\ce{NH4+ + 6 FeOOH -> NO2- + 6 Fe^{2+}}$
+Pseudo reaction (not balanced): $\ce{NH4+ + FeOOH -> NO2- + Fe^{2+}}$
 
 ### [Solutions]({{ site.baseurl }}/redox_solutions/)
 

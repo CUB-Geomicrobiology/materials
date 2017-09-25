@@ -53,7 +53,7 @@ $\ce{CH4 + SO4^{2-} + H+ -> CO2 + HS- + 2H2O}$
 
 #### Ammonia oxidation coupled to iron reduction
 
-Pseudo reaction (not balanced): $\ce{NH4+ + 6 FeOOH -> NO2- + 6 Fe^{2+}}$
+Pseudo reaction (not balanced): $\ce{NH4+ + FeOOH -> NO2- + Fe^{2+}}$
 
 **Solution**:
 
