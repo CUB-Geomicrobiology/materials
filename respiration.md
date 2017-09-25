@@ -22,38 +22,49 @@ This short assignment is aimed at preparing you for the more in-depth discussion
 
 ## Electron transport chain
 
-Video: https://www.youtube.com/watch?v=xbJ0nbzt5Kw. Note that this video is focused primarily on aerobic respiration in mitochondria, which are the powerhouses of eukaryotic cells. The concepts are the same in bacteria and archaea (remember that mitochondria themselves were originally bacteria that were incorporated during endsymbiosis as an organelle for generating power through aerobic respiration) and only slightly different for most forms of anaerobic respiration.
+Video: [https://www.youtube.com/watch?v=xbJ0nbzt5Kw](https://www.youtube.com/watch?v=xbJ0nbzt5Kw). Note that this video is focused primarily on aerobic respiration in mitochondria, which are the powerhouses of eukaryotic cells. The concepts are the same in bacteria and archaea (remember that mitochondria themselves were originally bacteria that were incorporated during endsymbiosis as an organelle for generating power through aerobic respiration) and only slightly different for most forms of anaerobic respiration.
 
 #### 1. What are the names of the enzymes and molecules that are part of the electron transport chain (ETC)?
 
-
+&nbsp;
+&nbsp;
 
 #### 2. In what sequence do they appear in the ETC?
 
-
+&nbsp;
+&nbsp;
 
 #### 3. Which steps lead to hydrogen ions (protons) getting pumped across the membrane and how many are pumped in each step?
 
+&nbsp;
+&nbsp;
 
+&nbsp;
+&nbsp;
 
 #### 4. From which molecule does the ETC get its electrons?
 
-
+&nbsp;
+&nbsp;
 
 ## Chemiosmosis
 
-Video: https://www.youtube.com/watch?v=3y1dO4nNaKY. Again, note that this is primarily focused on mitochondria but chemiosmosis is a universal attribute of cellular life.
+Video: [https://www.youtube.com/watch?v=3y1dO4nNaKY](https://www.youtube.com/watch?v=3y1dO4nNaKY). Again, note that this is primarily focused on mitochondria but chemiosmosis is a universal attribute of cellular life.
 
 #### 5. On which side (outside or inside) of the membrane do you need a higher concentration to power ATP synthesis?
 
-
+&nbsp;
+&nbsp;
 
 #### 6. What is the overall reaction for ATP synthesis? (include ATP, ADP, $\ce{P_i}$, $\ce{H_{outside}^{+}}$ and $\ce{H_{inside}^{+}}$ in your equation).
 
-
+&nbsp;
+&nbsp;
 
 #### 7. What would happen if you ran this reaction in reverse?
 
+&nbsp;
+&nbsp;
 
 
 
