@@ -16,7 +16,7 @@ geometry: margin=.5in
 ---
 
 <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({TeX: {extensions:["mhchem.js"]}});
+MathJax.Hub.Config({TeX: {extensions:["mhchem.js"]}});
 </script>
 
 This short assignment is aimed at preparing you for the more in-depth discussion and in class activities on respiration that we will start on Wednesday. It features two Youtube videos (each less than 4 minutes long) on the electron transport chain and Chemiosmosis with a few study question prompts below for yourself to take notes on and make sure you catch the most important information. This assignment is NOT graded but taking the time to go through it (15-20min) will allow you get the most out of the next exercises and help your team tackle the in-class activities.
@@ -59,7 +59,7 @@ Video: [https://www.youtube.com/watch?v=3y1dO4nNaKY](https://www.youtube.com/wat
 &nbsp;
 &nbsp;
 
-#### 6. What is the overall reaction for ATP synthesis? (include ATP, ADP, $\ce{P_i}$, $\ce{H_{outside}^{+}}$ and $\ce{H_{inside}^{+}}$ in your equation).
+#### 6. What is the overall reaction for ATP synthesis? (include ATP, ADP, $\ce{P_i}$, $\ce{H_{out}^+}$ and $\ce{H_{in}^+}$ in your equation).
 
 &nbsp;
 &nbsp;
