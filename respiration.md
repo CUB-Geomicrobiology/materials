@@ -1,5 +1,7 @@
 ---
-title: "Prep assignment for activities on respiration"
+title: "Prep for activities on respiration"
+layout: default
+permalink: /respiration/
 header-includes:
 - \usepackage{relsize}
 - \usepackage{amsmath}
@@ -10,7 +12,6 @@ output:
   html_notebook: default
   html_document: default
 geometry: margin=.5in
-permalink: /respiration/
 ---
 
 <script type="text/x-mathjax-config">
@@ -25,33 +26,33 @@ Video: https://www.youtube.com/watch?v=xbJ0nbzt5Kw. Note that this video is focu
 
 #### 1. What are the names of the enzymes and molecules that are part of the electron transport chain (ETC)?
 
-##
+
 
 #### 2. In what sequence do they appear in the ETC?
 
-##
+
 
 #### 3. Which steps lead to hydrogen ions (protons) getting pumped across the membrane and how many are pumped in each step?
 
-##
+
 
 #### 4. From which molecule does the ETC get its electrons?
 
-##
+
 
 ## Chemiosmosis
 
 Video: https://www.youtube.com/watch?v=3y1dO4nNaKY. Again, note that this is primarily focused on mitochondria but chemiosmosis is a universal attribute of cellular life.
 
-#### 1. On which side (outside or inside) of the membrane do you need a higher concentration to power ATP synthesis?
+#### 5. On which side (outside or inside) of the membrane do you need a higher concentration to power ATP synthesis?
 
-##
 
-#### 2. What is the overall reaction for ATP synthesis? (include ATP, ADP, \ce{P_i}, \ce{H^+_{outside}} and \ce{H^+_{inside}} in your equation).
 
-##
+#### 6. What is the overall reaction for ATP synthesis? (include ATP, ADP, $\ce{P_i}$, $\ce{H_{outside}^{+}}$ and $\ce{H_{inside}^{+}}$ in your equation).
 
-#### 3. What would happen if you ran this reaction in reverse?
+
+
+#### 7. What would happen if you ran this reaction in reverse?
 
 
 
