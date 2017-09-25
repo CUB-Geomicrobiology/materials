@@ -12,7 +12,7 @@ MathJax.Hub.Config({TeX: {extensions:["mhchem.js"]}});
 
 The following schematic is designed to make it easier to figure out what type of metabolism you are looking at. Keep in mind that many organisms are capable of multiple metabolic modes to make a living and many are not mutually exclusive.
 
-![](assets/trophy_overview.png)
+![]({{ site.baseurl }}/assets/trophy_overview.png)
 
 ## Rules
 
@@ -45,7 +45,9 @@ Because the relationship oxygen is such a fundamental sorting metabolic criterio
 - Organisms that cannot use $\ce{O2}$ but can tolerate its presence are often called **aerotolerant** `???-trophs`.
 - Organisms that can use $\ce{O2}$ only at low concentrations are called **microaerobic** `???-trophs`.
 
-## Exercises: what type of metabolism is this?
+## Exercises
+
+What type of metabolism is this?
 
 Paracoccus: eats sugar, breathes oxygen
 
