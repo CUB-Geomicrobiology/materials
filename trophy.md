@@ -48,63 +48,77 @@ Because the relationship oxygen is such a fundamental sorting metabolic criterio
 
 ## Exercises
 
-What type of metabolism is this?
-
-#### eats sugar, breathes oxygen
-
-Example: *Paracoccus denitrificans*
-
-<div class="solution">
-aerobic chemoorganoheterophy (or aerobic chemotrophy for short)
-</div>
-
-#### needs light, eats elemental sulfur and CO2
-
-Example: *Chlorobium tepidum*
-<div class="solution">
-anoxygenic photolithoautotrophy (anoxygenic photoautotrophy for short)
-</div>
-
-
-#### eats H2 and CO2, breathes sulfate
-
-Example: *Desulfovibrio*
-<div class="solution">
-anaerobic chemolithoautotrophy (anaerobic chemolithotrophy for short)
-</div>
-
+What type of metabolism is this? (Note: "eats" and "breathes" are used in the common sense, not the scientific definition)
 
 #### eats sugar, breathes nitrate
 
-Example: *Paracoccus denitrificans*
 <div class="solution">
-anaerobic chemoorganoheterotrophy
+anaerobic chemoorganoheterotrophy <br/>
+for short: anaerobic chemotrophy or **nitrate reduction** or **denitrification** (if \ce{N2} is the end-product)
 </div>
 
-#### eeds light, eats water and CO2
+Example organism that can do this: [*Paracoccus denitrificans*](https://en.wikipedia.org/wiki/Paracoccus_denitrificans)
 
-Example: *Anaebeana*
+
+#### eats sugar, breathes oxygen
+
 <div class="solution">
-oxygenic photolithoautotrophy
+aerobic chemoorganoheterophy <br/>
+for short: aerobic chemotrophy
 </div>
 
-#### eats H2 and CO2, breathes CO2
+Example organism that can do this: [*Escherichia coli*](https://en.wikipedia.org/wiki/Escherichia_coli), [*Paracoccus denitrificans*](https://en.wikipedia.org/wiki/Paracoccus_denitrificans), many others
 
-Example: *Methanosaeta*
+#### needs light, eats elemental sulfur and CO2
+
 <div class="solution">
-anaerobic chemolithoautotrophy
+anoxygenic photolithoautotrophy<br/>
+for short: anoxygenic photoautotrophy
 </div>
 
-#### eats ammonia and CO2, breathes oxygen
+Example organism that can do this: [*Chlorobium*](https://en.wikipedia.org/wiki/Chlorobium) species, for example [*Chlorobium tepidum*](https://en.wikipedia.org/wiki/Chlorobium_tepidum)
 
-Example: *Nitromonas*
+
+#### eats $\ce{H2}$ and $\ce{CO2}, breathes sulfate
+
 <div class="solution">
-aerobic chemolithoautotrophy
+anaerobic chemolithoautotrophy<br/>
+for short: anaerobic chemolithotrophy or **sulfate reduction** (organisms that do this are often called sulfate-reducing bacteria or SRBs for short)
 </div>
+
+Example organism that can do this: [*Desulfovibrio* species](https://en.wikipedia.org/wiki/Desulfovibrio)
+
+
+#### eats light, eats water and $\ce{CO2}
+
+<div class="solution">
+oxygenic photolithoautotrophy<br/>
+for short: oxygenic phototrophy or just oxygenic photosynthesis (this is what all plants do)
+</div>
+
+Example organism that can do this: [*Anaebeana variabilis*](https://en.wikipedia.org/wiki/Anabaena_variabilis)
+
+#### eats $\ce{H2} and $\ce{CO2}, breathes $\ce{CO2}
+
+<div class="solution">
+anaerobic chemolithoautotrophy<br/>
+for short: anaerobic chemolithotrophy or more specifically **hydrogenotrophic methanogenesis** (literally, hydrogen eating methane production since the product of respiring with CO2 is methane)
+</div>
+
+Example organism that can do this: *Methanosaeta*
+
+#### eats ammonia and $\ce{CO2}, breathes $\ce{O2}
+
+<div class="solution">
+aerobic chemolithoautotrophy<br/>
+for short: aerobic chemolithotrophy
+</div>
+
+Example organism that can do this: *Nitromonas*
 
 #### needs light, eats H2 and sugar
 
-Example: *Rhodobacter*
+Example organism that can do this: *Rhodobacter*
 <div class="solution">
 anoxygenic photomixotrophy
 </div>
