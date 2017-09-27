@@ -55,29 +55,56 @@ What type of metabolism is this?
 Example: *Paracoccus denitrificans*
 
 <div class="solution">
-aerobic chemoorganoheteroph (or aerobic chemotroph for short)
+aerobic chemoorganoheterophy (or aerobic chemotrophy for short)
 </div>
 
-####
-Chlorobi: needs light, eats elemental sulfur and CO2
+#### needs light, eats elemental sulfur and CO2
 
-Paracoccus: eats sugar, breathes nitrate
+Example: *Chlorobium tepidum*
+<div class="solution">
+anoxygenic photolithoautotrophy (anoxygenic photoautotrophy for short)
+</div>
 
-Desulfovibrio: eats H2 and CO2, breathes sulfate
 
-Anabaena: needs light, eats water and CO2
+#### eats H2 and CO2, breathes sulfate
 
-Methanosaeta: eats H2 and CO2, breathes CO2
+Example: *Desulfovibrio*
+<div class="solution">
+anaerobic chemolithoautotrophy (anaerobic chemolithotrophy for short)
+</div>
 
-Nitromonas: eats ammonia and CO2, breathes oxygen
 
-Rhodobacter: needs light, eats H2 and sugar
+#### eats sugar, breathes nitrate
 
-Methylococcus: eats methane, breathes oxygen (ambiguous)
+Example: *Paracoccus denitrificans*
+<div class="solution">
+anaerobic chemoorganoheterotrophy
+</div>
 
-A second group of methanogens use methanol (CH
-3OH) as a substrate for methanogenesis. These are chemoorganotrophic, but still autotrophic in using CO2 as only carbon source.
+#### eeds light, eats water and CO2
 
-Lastly, a third group of methanogens produce both methane and carbon dioxide from acetate (CH
-3COO−
-) with the acetate being split between the two carbons. These acetate-cleaving organisms are the only chemoorganoheterotrophic
+Example: *Anaebeana*
+<div class="solution">
+oxygenic photolithoautotrophy
+</div>
+
+#### eats H2 and CO2, breathes CO2
+
+Example: *Methanosaeta*
+<div class="solution">
+anaerobic chemolithoautotrophy
+</div>
+
+#### eats ammonia and CO2, breathes oxygen
+
+Example: *Nitromonas*
+<div class="solution">
+aerobic chemolithoautotrophy
+</div>
+
+#### needs light, eats H2 and sugar
+
+Example: *Rhodobacter*
+<div class="solution">
+anoxygenic photomixotrophy
+</div>
