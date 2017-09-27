@@ -13,7 +13,7 @@ MathJax.Hub.Config({TeX: {extensions:["mhchem.js"]}});
 
 The following schematic is designed to make it easier to figure out what type of metabolism you are looking at. Keep in mind that many organisms are capable of multiple metabolic modes to make a living and many are not mutually exclusive.
 
-![]({{ site.baseurl }}/assets/trophy_overview.png)
+{% include image.html file="trophy_overview.png" width="700" caption="Metabolic overview." %}
 
 ## Rules
 
