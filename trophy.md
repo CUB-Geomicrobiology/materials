@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Excercises for Metabolic Nomenclature
+css: solutions.css
 permalink: /trophy/
 ---
 
@@ -49,8 +50,15 @@ Because the relationship oxygen is such a fundamental sorting metabolic criterio
 
 What type of metabolism is this?
 
-Paracoccus: eats sugar, breathes oxygen
+#### eats sugar, breathes oxygen
 
+Example: *Paracoccus denitrificans*
+
+<div class="solution">
+aerobic chemoorganoheteroph (or aerobic chemotroph for short)
+</div>
+
+####
 Chlorobi: needs light, eats elemental sulfur and CO2
 
 Paracoccus: eats sugar, breathes nitrate

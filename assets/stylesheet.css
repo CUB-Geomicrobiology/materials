@@ -16,6 +16,44 @@ nav[data-toggle='toc'] {
 
 }
 
+/* image styles */
+
+.figure-container {
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+}
+
+.figure-block {
+  display: inline-block;
+}
+
+figure {
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+}
+
+figcaption {
+  padding-top: 5px;
+  padding-bottom: 0px;
+  text-align: center;
+  font-style: italic;
+}
+
+.gap-right {
+  margin-right: 10px;
+}
+
+.gap-left {
+  margin-left: 10px;
+}
+
+.border {
+  border: 2px solid rgb(33,33,33);
+}
+
 /* fixed height images */
 
 .img-height-90px {

@@ -1,5 +1,5 @@
 baseurl: "/materials"
-imageurl: "/assets/"
+imageurl: "/assets"
 kramdown:
   input: GFM
   hard_wrap: false
