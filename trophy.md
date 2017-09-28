@@ -54,7 +54,7 @@ What type of metabolism is this? (Note: "eats" and "breathes" are used in the co
 
 <div class="solution">
 anaerobic chemoorganoheterotrophy <br/>
-for short: anaerobic chemotrophy or <u>nitrate reduction</b> or <b>denitrification</u> (if $\ce{N2}$ is the end-product)
+for short: anaerobic chemotrophy or <u>nitrate reduction</u> or <u>denitrification</u> (if $\ce{N2}$ is the end-product)
 </div>
 
 Example organism that can do this: [*Paracoccus denitrificans*](https://en.wikipedia.org/wiki/Paracoccus_denitrificans)
@@ -111,7 +111,7 @@ Example organism that can do this: [*Methanosaeta* species](https://en.wikipedia
 
 <div class="solution">
 aerobic chemolithoautotrophy<br/>
-for short: aerobic chemoautotrophy or <u>ammonia oxidation</b> (the first step of <b>nitrification</u>)
+for short: aerobic chemoautotrophy or <u>ammonia oxidation</u> (the first step of <u>nitrification</u>)
 </div>
 
 Example organism that can do this: [*Nitromonas* species](https://en.wikipedia.org/wiki/Nitrosomonas)
