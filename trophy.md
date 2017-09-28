@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Excercises for Metabolic Nomenclature
+title: Exercises for Metabolic Nomenclature
 css: solutions.css
 permalink: /trophy/
 ---
@@ -69,7 +69,7 @@ for short: aerobic chemotrophy
 
 Example organism that can do this: [*Escherichia coli*](https://en.wikipedia.org/wiki/Escherichia_coli), [*Paracoccus denitrificans*](https://en.wikipedia.org/wiki/Paracoccus_denitrificans), many others
 
-#### needs light, eats elemental sulfur and CO2
+#### needs light, eats elemental sulfur and $\ce{CO2}$
 
 <div class="solution">
 anoxygenic photolithoautotrophy<br/>
@@ -79,7 +79,7 @@ for short: anoxygenic photoautotrophy
 Example organism that can do this: [*Chlorobium*](https://en.wikipedia.org/wiki/Chlorobium) species, for example [*Chlorobium tepidum*](https://en.wikipedia.org/wiki/Chlorobium_tepidum)
 
 
-#### eats $\ce{H2}$ and $\ce{CO2}, breathes sulfate
+#### eats $\ce{H2}$ and $\ce{CO2}$, breathes sulfate
 
 <div class="solution">
 anaerobic chemolithoautotrophy<br/>
@@ -89,7 +89,7 @@ for short: anaerobic chemolithotrophy or **sulfate reduction** (organisms that d
 Example organism that can do this: [*Desulfovibrio* species](https://en.wikipedia.org/wiki/Desulfovibrio)
 
 
-#### eats light, eats water and $\ce{CO2}
+#### eats light, eats water and $\ce{CO2}$
 
 <div class="solution">
 oxygenic photolithoautotrophy<br/>
@@ -98,7 +98,7 @@ for short: oxygenic phototrophy or just oxygenic photosynthesis (this is what al
 
 Example organism that can do this: [*Anaebeana variabilis*](https://en.wikipedia.org/wiki/Anabaena_variabilis)
 
-#### eats $\ce{H2} and $\ce{CO2}, breathes $\ce{CO2}
+#### eats $\ce{H2}$ and $\ce{CO2}$, breathes $\ce{CO2}$
 
 <div class="solution">
 anaerobic chemolithoautotrophy<br/>
@@ -107,18 +107,24 @@ for short: anaerobic chemolithotrophy or more specifically **hydrogenotrophic me
 
 Example organism that can do this: *Methanosaeta*
 
-#### eats ammonia and $\ce{CO2}, breathes $\ce{O2}
+#### eats ammonia and $\ce{CO2}$, breathes $\ce{O2}$
 
 <div class="solution">
 aerobic chemolithoautotrophy<br/>
-for short: aerobic chemolithotrophy
+for short: aerobic chemolithotrophy or <b>ammonia oxidation</b> (the first step of <b>nitrification</b>)
 </div>
 
 Example organism that can do this: *Nitromonas*
 
 #### needs light, eats H2 and sugar
 
-Example organism that can do this: *Rhodobacter*
 <div class="solution">
 anoxygenic photomixotrophy
 </div>
+
+Example organism that can do this: [*Rhodobacter capsulatus*](https://en.wikipedia.org/wiki/Rhodobacter_capsulatus)
+
+
+Lastly, a third group of methanogens produce both methane and carbon dioxide from acetate (CH
+3COO−
+) with the acetate being split between the two carbons. These acetate-cleaving organisms are the only chemoorganoheterotrophic
