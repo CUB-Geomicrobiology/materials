@@ -2,6 +2,7 @@
 layout: default
 title: Redox Solutions
 css: solutions.css
+exclude_front_page: yes
 permalink: /redox_solutions/
 ---
 

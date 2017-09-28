@@ -48,13 +48,13 @@ Because the relationship oxygen is such a fundamental sorting metabolic criterio
 
 ## Exercises
 
-What type of metabolism is this? (Note: "eats" and "breathes" are used in the common sense, not the scientific definition)
+What type of metabolism is this? (Note: "eats" and "breathes" are used in the common sense, not the scientific definition). To see solutions, highlight the hidden text.
 
 #### eats sugar, breathes nitrate
 
 <div class="solution">
 anaerobic chemoorganoheterotrophy <br/>
-for short: anaerobic chemotrophy or **nitrate reduction** or **denitrification** (if \ce{N2} is the end-product)
+for short: anaerobic chemotrophy or <b>nitrate reduction</b> or <b>denitrification</b> (if $\ce{N2}$ is the end-product)
 </div>
 
 Example organism that can do this: [*Paracoccus denitrificans*](https://en.wikipedia.org/wiki/Paracoccus_denitrificans)
@@ -83,7 +83,7 @@ Example organism that can do this: [*Chlorobium*](https://en.wikipedia.org/wiki/
 
 <div class="solution">
 anaerobic chemolithoautotrophy<br/>
-for short: anaerobic chemolithotrophy or **sulfate reduction** (organisms that do this are often called sulfate-reducing bacteria or SRBs for short)
+for short: anaerobic chemolithotrophy or <b>sulfate reduction</b> (organisms that do this are often called sulfate-reducing bacteria or SRBs for short)
 </div>
 
 Example organism that can do this: [*Desulfovibrio* species](https://en.wikipedia.org/wiki/Desulfovibrio)
@@ -102,7 +102,7 @@ Example organism that can do this: [*Anaebeana variabilis*](https://en.wikipedia
 
 <div class="solution">
 anaerobic chemolithoautotrophy<br/>
-for short: anaerobic chemolithotrophy or more specifically **hydrogenotrophic methanogenesis** (literally, hydrogen eating methane production since the product of respiring with CO2 is methane)
+for short: anaerobic chemolithotrophy or more specifically <b>hydrogenotrophic methanogenesis</b> (literally, hydrogen eating methane production since the product of respiring with CO2 is methane)
 </div>
 
 Example organism that can do this: *Methanosaeta*
@@ -111,10 +111,10 @@ Example organism that can do this: *Methanosaeta*
 
 <div class="solution">
 aerobic chemolithoautotrophy<br/>
-for short: aerobic chemolithotrophy or <b>ammonia oxidation</b> (the first step of <b>nitrification</b>)
+for short: aerobic chemoautotrophy or <b>ammonia oxidation</b> (the first step of <b>nitrification</b>)
 </div>
 
-Example organism that can do this: *Nitromonas*
+Example organism that can do this: [*Nitromonas*](https://en.wikipedia.org/wiki/Nitrosomonas)
 
 #### needs light, eats H2 and sugar
 
