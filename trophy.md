@@ -128,7 +128,7 @@ Example organism that can do this: [*Rhodobacter capsulatus*](https://en.wikiped
 
 <div class="solution">
 anaerobic chemoorganoheterotrophy<br/>
-for short: **acetoclastic methanogenesis** (this is actually methane production by acetate fermentation)
+for short: <b>acetoclastic methanogenesis</b> (this is actually methane production by acetate fermentation)
 </div>
 
 Example organism that can do this: [*Methanosarcina* species](https://en.wikipedia.org/wiki/Methanosarcina)
