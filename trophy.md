@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercises for Metabolic Nomenclature
+title: Metabolism Exercises
 css: solutions.css
 permalink: /trophy/
 ---
@@ -105,7 +105,7 @@ anaerobic chemolithoautotrophy<br/>
 for short: anaerobic chemolithotrophy or more specifically <b>hydrogenotrophic methanogenesis</b> (literally, hydrogen eating methane production since the product of respiring with CO2 is methane)
 </div>
 
-Example organism that can do this: *Methanosaeta*
+Example organism that can do this: [*Methanosaeta* species](https://en.wikipedia.org/wiki/Methanosaeta)
 
 #### eats ammonia and $\ce{CO2}$, breathes $\ce{O2}$
 
@@ -114,7 +114,7 @@ aerobic chemolithoautotrophy<br/>
 for short: aerobic chemoautotrophy or <b>ammonia oxidation</b> (the first step of <b>nitrification</b>)
 </div>
 
-Example organism that can do this: [*Nitromonas*](https://en.wikipedia.org/wiki/Nitrosomonas)
+Example organism that can do this: [*Nitromonas* species](https://en.wikipedia.org/wiki/Nitrosomonas)
 
 #### needs light, eats H2 and sugar
 
@@ -124,7 +124,11 @@ anoxygenic photomixotrophy
 
 Example organism that can do this: [*Rhodobacter capsulatus*](https://en.wikipedia.org/wiki/Rhodobacter_capsulatus)
 
+#### eats acetate only
 
-Lastly, a third group of methanogens produce both methane and carbon dioxide from acetate (CH
-3COO−
-) with the acetate being split between the two carbons. These acetate-cleaving organisms are the only chemoorganoheterotrophic
+<div class="solution">
+anaerobic chemoorganoheterotrophy<br/>
+for short: **acetoclastic methanogenesis** (this is actually methane production by acetate fermentation)
+</div>
+
+Example organism that can do this: [*Methanosarcina* species](https://en.wikipedia.org/wiki/Methanosarcina)
