@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Redox Refresher
+css: solutions.css
 permalink: /redox/
 ---
 
@@ -41,19 +42,15 @@ Carbon has 4 valance electrons, so it can lose up to 4 electrons or gain up to 4
 
 ### Practice problems
 
-Assign oxidation states to each atom in these compounds
+Assign oxidation states to each atom in these compounds. To see solutions **after** solving each problem, highlight the hidden text.
 
 |             |                                **Acetate**                                 |                                **Succinate**                                 |                                **Fumarate**                                 |                                **Ethanol**                                 |
 |-------------|:--------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 | Structure   | ![]({{ site.baseurl }}/assets/redox_acetate.png){:class="img-height-90px"} | ![]({{ site.baseurl }}/assets/redox_succinate.png){:class="img-height-90px"} | ![]({{ site.baseurl }}/assets/redox_fumarate.png){:class="img-height-90px"} | ![]({{ site.baseurl }}/assets/redox_ethanol.png){:class="img-height-50px"} |
-| Net charge  |                                                                            |                                                                              |                                                                             |                                                                            |
-| Hydrogen(s) |                                                                            |                                                                              |                                                                             |                                                                            |
-| Oxygen(s)   |                                                                            |                                                                              |                                                                             |                                                                            |
-| Carbon(s)   |                                                                            |                                                                              |                                                                             |                                                                            |
-
-### [Solutions]({{ site.baseurl }}/redox_solutions/)
-
-Only click this link to check the solutions for the above practice problems.
+| Net charge  |                      <span class="solution">-1</span>                      |                       <span class="solution">-2</span>                       |                      <span class="solution">-2</span>                       |                      <span class="solution">0</span>                       |
+| Hydrogen(s) |                      <span class="solution">+1</span>                      |                       <span class="solution">+1<span>                        |                      <span class="solution">+1</span>                       |                      <span class="solution">+1</span>                      |
+| Oxygen(s)   |                      <span class="solution">-2</span>                      |                       <span class="solution">-2</span>                       |                      <span class="solution">-2</span>                       |                      <span class="solution">-2</span>                      |
+| Carbon(s)   |                    <span class="solution">+3, -3</span>                    |                 <span class="solution">+3, -2, -2, +3</span>                 |                <span class="solution">+3, -1, -1, +3</span>                 |                    <span class="solution">-2, -3</span>                    |
 
 ## Redox reactions
 
@@ -80,7 +77,7 @@ The following is one possible approach for systematically balancing redox reacti
 
 ### Practice Problems
 
-Write balanced redox reactions for each of these metabolisms.
+Write balanced redox reactions for each of these metabolisms. To see solutions **after** solving each problem, highlight the hidden text.
 
 #### Example: Glucose respiration coupled to nitrate reduction
 
@@ -101,18 +98,38 @@ Pseudo reaction (not balanced): $\ce{C6H12O6 + NO3- -> CO2 + N2}$
 
 Pseudo reaction (not balanced): $\ce{Fe^{2+} + NO3- -> Fe(OH)3 + N2}$
 
+**Solution**:
+
+<div class="solution">
+$\ce{10 Fe^{2+} + 24 H2O + 2NO3- -> 10 Fe(OH)3 + 18 H+ + N2}$
+</div>
+
 #### Iron-oxidizing anoxygenic phototrophy
 
 Pseudo reaction (not balanced): $\ce{HCO3- + Fe^{2+} -> CH2O + Fe(OH)3}$
+
+**Solution**:
+
+<div class="solution">
+$\ce{HCO3- + 4 Fe^{2+} + 10 H2O -> CH2O + 4 Fe(OH)3 + 7 H+}$
+</div>
 
 #### Methane oxidation coupled to sulfate reduction
 
 Pseudo reaction (not balanced): $\ce{CH4 + SO4^{2-} -> CO2 + HS-}$
 
+**Solution**:
+
+<div class="solution">
+$\ce{CH4 + SO4^{2-} + H+ -> CO2 + HS- + 2H2O}$
+</div>
+
 #### Ammonia oxidation coupled to iron reduction
 
 Pseudo reaction (not balanced): $\ce{NH4+ + FeOOH -> NO2- + Fe^{2+}}$
 
-### [Solutions]({{ site.baseurl }}/redox_solutions/)
+**Solution**:
 
-Only click this link to check the solutions for the above practice problems.
+<div class="solution">
+$\ce{NH4+ + 6 FeOOH + 10 H+ -> NO2- + 6 Fe^{2+} + 10 H2O}$
+</div>
