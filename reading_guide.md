@@ -4,8 +4,6 @@ title: Reading Guide
 permalink: /reading_guide/
 ---
 
-# Reading science textbooks and scientific papers
-
 The TBL module structure is based on students working through the preparatory readings at the beginning of each module in preparation for the RAP (Readiness Assessment Process) that takes place on the first day of a new module. This allows the class to focus the rest of the module on higher level concepts in team activities. Reading scientific texts requires time and effort, and the preparatory readings at the beginning of each of the seven modules are no exception. They will usually take at least 6-8 hours of focused time. Most people, including myself, have to read scientific material more than once and have to be strategic about how to read in order to get the most out of it. This is because the information content is typically very high and often includes specialized vocabulary that may be unfamiliar. Like most things, reading scientific text and textbooks is a skill that takes practice and benefits from taking a deliberate, planned approach. The following steps are intended to provide some starting suggestions from which to build your own reading strategy. Keep in mind that what works best is slightly different from person to person.
 
 ## 1. Plan your reading
