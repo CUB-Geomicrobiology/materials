@@ -46,5 +46,5 @@ If you prefer to work locally on your computer and have the necessary administra
      - `markdown-preview-plus`
      - `atom-image-resize`
  1. Restart Atom to make sure all extensions are loaded properly
- 1. Edit the assignment files and use `Packages -> Markdown Preview Plus -> Toggle Preview` (in the menu) to launch an automatic  preview of the rendered markdown file (Note that this will not be able to render special commands that use the `{%...%}` notation, e.g. some of those used for images in the blog will not show up the way they do online).
+ 1. Edit the assignment files and use `Packages -> Markdown Preview Plus -> Toggle Preview` (in the menu) to launch an automatic  preview of the rendered markdown file (Note that this will not be able to render special commands that use the `{% %}` notation, e.g. some of those used for images in the blog will not show up the way they do online).
  1. There are many more useful extensions for atom - feel free to explore them and see which ones you like. Easiest way to figure out what they do is by googleing them. If you install one you don't like, it is easy to disable or uninstall it again in the preferences (same place where you installed them to begin with). Some extensions worth considering are `wordcount`, `linter-markdown`, `pandoc-convert`, `project-manager`
