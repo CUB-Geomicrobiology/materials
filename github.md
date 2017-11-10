@@ -14,8 +14,12 @@ If you prefer to work locally on your computer and have the necessary administra
 
 ### Setting up GitHub Desktop
 
- 1. Download and install GitHubDesktop for your operating system (Instructions for [Mac](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/installing-github-desktop/#platform-mac) / [Windows](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/installing-github-desktop/#platform-windows))
- 1. Start GitHubDesktop and sign into your GitHub account (Instructions for [Mac](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/authenticating-to-github/#platform-mac) / [Windows](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/authenticating-to-github/#platform-windows))
+ 1. Download and install GitHubDesktop for your operating system
+    - [Instructions for Mac](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/installing-github-desktop/#platform-mac)
+    - [Instructions for Windows](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/installing-github-desktop/#platform-windows)
+ 1. Start GitHubDesktop and sign into your GitHub account
+    - [Instructions for Mac](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/authenticating-to-github/#platform-mac)
+    - [Instructions for Windows](https://help.github.com/desktop-beta/guides/getting-started-with-github-desktop/authenticating-to-github/#platform-windows))
  1. Clone (i.e. copy) a repository from GitHub to GitHubDesktop ([Instructions](https://help.github.com/desktop-beta/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/))
 
 ### Working with GitHub Desktop
@@ -30,7 +34,10 @@ If you prefer to work locally on your computer and have the necessary administra
 
 #### Setting up Atom Text Editor
 
- 1. Download and install Atom for your operating system (Instructions for [Mac](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac) / [Windows](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows) / [Linux](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-linux))
+ 1. Download and install Atom for your operating system
+    - [Instructions for Mac](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac)
+    - [Instructions for Windows](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows)
+    - [Instructions for Linux](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-linux)
  1. Start Atom and add the cloned assignment folder as a new project with `File > Add Project Folder`
  1. Install a few useful extensions for working with markdown files and images ([Instructions for installing extensions](http://flight-manual.atom.io/using-atom/sections/atom-packages/)):
      - `markdown-writer`
