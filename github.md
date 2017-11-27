@@ -6,7 +6,11 @@ permalink: /github/
 
 ## Working on the GitHub website
 
-See video tutorial for details.
+See video tutorial for details:
+
+ - Intro Github - working on an individual assignment: [Video Tutorial](https://youtu.be/bRkpm1LTpkY)
+ - Intro Team - working on a joint assignment: [Video Tutorial](https://youtu.be/k2NjjQxFEuA)
+ - Intro Reviewing - providing and receiving reviews: [Reviews Video Tutorial](https://youtu.be/ZWMN5FxgdWI)
 
 ## Working on your own computer
 
