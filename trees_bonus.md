@@ -22,7 +22,7 @@ We are interested in comparing one of the main genes involved in photosynthesis 
 
 ## Collecting the sequences
 
-- Go to http://www.phylogeny.fr/
+- Go to https://www.phylogeny.fr/
 - In the menu, click on Phylogeny Analysis -> One click
 - Paste your FASTA sequence from above into the box
 - Repeat the search for protein sequences for the next organism and append the new sequence also in the Phylogeny Analysis box (do this for ~5-10 sequences, ideally from both eukaryotes and different bacteria)
@@ -31,7 +31,7 @@ We are interested in comparing one of the main genes involved in photosynthesis 
 
 - As soon as you have all your sequences, click "SUBMIT" and wait until the tree is assembled
 - This will take care of alignment and tree building all in one but you can look at the different steps on the different tabs - take a look at the alignment and see if it makes sense to you
-- Hint: on the tree tab, you can download the tree in Newick format and upload it into the [iTOL](http://itol.embl.de/) interface which makes for much nicer visualization
+- Hint: on the tree tab, you can download the tree in Newick format and upload it into the [iTOL](https://itol.embl.de/) interface which makes for much nicer visualization
 
 ## Discussion
 
