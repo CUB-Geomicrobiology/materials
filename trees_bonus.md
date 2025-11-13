@@ -36,5 +36,3 @@ We are interested in comparing one of the main genes involved in photosynthesis 
 ## Discussion
 
 What is different about this tree compared to the species tree we built earlier?
-
-For bonus credit: include this tree in your [tree repository](https://classroom.github.com/g/9nWtA6xT).
