@@ -19,8 +19,7 @@ permalink: /trees/
 
 1. In `Controls -> Basic`, switch **Display Mode** to `Unrooted`
 2. In `Controls -> Basic`, switch **Parameters** to `270` degrees rotation
-3. In `Controls -> Advanced`, switch **Leaf Sorting** to `None`
-4. Start to look familiar?
+3. Start to look familiar?
 
 ## Pruning the tree
 
